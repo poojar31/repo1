@@ -1,4 +1,3 @@
 echo "Hi"
-a
 
 
